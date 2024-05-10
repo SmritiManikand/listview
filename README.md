@@ -160,10 +160,6 @@ public class CustomAdapter extends BaseAdapter {
 
 ## OUTPUT
 
-EMULATOR WITH CODE
-
-<img width="959" alt="s1" src="https://github.com/SmritiManikand/listview/assets/113674204/7dbec832-822d-494f-8935-7b33019dfe57">
-
 LIST VIEW
 
 <img width="214" alt="s2" src="https://github.com/SmritiManikand/listview/assets/113674204/9cb24046-42e9-427e-883a-f1e6878d3f6f">
